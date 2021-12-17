@@ -1,0 +1,21 @@
+<style>
+  #myTable{
+     font-family: 'helvetica neue',helvetica,arial,'lucida grande',sans-serif;
+     border-collapse: collapse;
+  }
+  #myTable td{
+     border: solid 1px #C9C9C9;
+     padding: 5px;
+     font-size: 12px;
+     text-align: left;
+  }
+  #myTable tr{
+     background-color: #EBEBEB;
+     color: #000000;
+  }
+  #myTable tr:hover{
+     background-color: #FFFFFF;
+     color: #000000;
+  }
+
+</style>
